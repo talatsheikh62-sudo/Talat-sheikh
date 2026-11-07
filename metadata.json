@@ -1,0 +1,6 @@
+{
+  "name": "Tallat Maan Portfolio",
+  "description": "Professional portfolio website for Tallat Maan, Computer Operator and Graphic Designer showcasing creative design, video editing, and digital office solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
